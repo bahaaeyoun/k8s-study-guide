@@ -1,6 +1,5 @@
 [Go Home](../README.md) | 
-[Previous Step](./kubeconfig_Manual_Setup_Guide.md) | 
-[Next Step](./Granting_Role_Based_Access.md)
+[Next Step](./kubeconfig_Manual_Setup_Guide.md)
 
 # Creating a User Certificate for Kubernetes Access
 

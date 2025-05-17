@@ -9,8 +9,8 @@ This guide documents the step-by-step process of configuring secure, limited acc
 
 We will go through the following steps in order:
 
-1. **Create a custom kubeconfig** for the user `joy`
-2. **Generate TLS certificates** for secure authentication
+1. **Generate TLS certificates** for secure authentication
+2. **Create a custom kubeconfig** for the user `joy`
 3. **Create a namespace, role, and rolebinding** using RBAC
 4. **Test access** to ensure permissions are correctly enforced
 
@@ -20,8 +20,8 @@ We will go through the following steps in order:
 
 | Step | Description                             | Link                                                     |
 | ---- | --------------------------------------- | -------------------------------------------------------- |
-| 1️⃣  | Create a Custom Kubeconfig              | [Custom Kubeconfig Setup](./docs/kubeconfig_Manual_Setup_Guide.md)         |
-| 2️⃣  | Generate User Certificates              | [User Certificate Creation](./docs/Creating_a_User_Certificate.md) |
+| 1️⃣  | Generate User Certificates              | [User Certificate Creation](./docs/Creating_a_User_Certificate.md) |
+| 2️⃣  | Create a Custom Kubeconfig              | [Custom Kubeconfig Setup](./docs/kubeconfig_Manual_Setup_Guide.md)         |
 | 3️⃣  | Create Namespace, Role, and RoleBinding | [RBAC Configuration](./docs/Granting_Role_Based_Access.md)                    |
 | 4️⃣  | Test Access Permissions                 | [Access Verification](./docs/Access_Verification.md)                  |
 

@@ -1,5 +1,6 @@
 [Go Home](../README.md) | 
-[Next Step](./Creating_a_User_Certificate.md)
+[Previous Step](./Creating_a_User_Certificate.md) | 
+[Next Step](./Granting_Role_Based_Access.md)
 
 
 # Kubernetes kubeconfig Manual Setup Guide
